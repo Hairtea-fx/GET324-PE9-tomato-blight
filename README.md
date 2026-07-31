@@ -11,7 +11,7 @@ Course: GET324 – Laboratory Exercise 10 (Mini-Project)
 | Icho, Eti Cyril | 23/EG/PE/028 | Hairtea-fx |
 | Hanson, Abasiakan Daniel | 23/EG/PE/018 | abashanson2006-cell |
 | Inyang Israel Uko | 22/EG/PE/1478 | Da-iszy44 |
-| Ubi Gladys Hycienth | 22/EG/PE/1498 | ubigladyso-tech |
+| Ubi Gladys Hycienth | 22/EG/PE/1498 | gladyshycienth2-max |
 | Godswill Ime Ubak | 23/EG/PE/008 | MRMONEYXIII |
 | Bassey, Michael Ime | 22/EG/PE/1538 | dr784 |
 | Favour Ofonmbuk Asuquo | 23/EG/PE/038 | genesisnode-alt
