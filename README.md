@@ -28,3 +28,10 @@ Course: GET324 – Laboratory Exercise 10 (Mini-Project)
 ## Model Performance
 Final validation accuracy: **95.7%**
 
+## Project Report
+
+The dataset was sourced from the PlantVillage dataset on Kaggle, containing labeled images of tomato leaves affected by Early Blight and Late Blight. A MobileNetV2 transfer learning model was trained to classify between the two classes, achieving 95.7% validation accuracy. The trained model was deployed as a Streamlit web application, allowing users to upload a tomato leaf image and receive an instant prediction with a confidence score.
+
+Key challenges included Windows long-path errors during TensorFlow installation, resolved by using a Python 3.12 environment; and a ModuleNotFoundError on Streamlit Cloud caused by an incompatible Python version, fixed by pinning Python 3.12 and tensorflow-cpu==2.21.0. A final path-resolution issue when loading the model on the cloud server was solved by referencing the model file relative to the script's own location.
+
+[**Live app:** \[Add your Streamlit URL here\]](https://get324-pe9-tomato-blight-wuybqxfsjopubaykrxekht.streamlit.app/)
