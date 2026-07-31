@@ -4,7 +4,9 @@ from PIL import Image
 import numpy as np
 
 # Load the trained model
-model = tf.keras.models.load_model("tomato_blight_model.keras")
+import os
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "tomato_blight_model.keras")
+model = tf.keras.models.load_model(MODEL_PATH)
 
 class_names = ['Tomato Early Blight', 'Tomato Late Blight']
 
